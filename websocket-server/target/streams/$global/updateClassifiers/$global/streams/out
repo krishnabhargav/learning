@@ -1,0 +1,768 @@
+[debug] :: resolving dependencies :: default#websocket-server$sources_javadoc_2.11;1.0
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.11.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cd3215c
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.4
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.11.4
+[debug] 	found org.scala-lang#scala-library;2.11.4 in sbt-chain
+[debug] 	[2.11.4] org.scala-lang#scala-library;2.11.4
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->default(compile)]
+[info] Resolving org.atmosphere#nettosphere;2.1.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56c2880a
+[debug] sbt-chain: module revision found in cache: org.atmosphere#nettosphere;2.1.1
+[debug] 	local: revision in cache: org.atmosphere#nettosphere;2.1.1
+[debug] 	found org.atmosphere#nettosphere;2.1.1 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->default(compile)]
+[info] Resolving org.atmosphere#atmosphere-runtime;2.1.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@375995
+[debug] sbt-chain: module revision found in cache: org.atmosphere#atmosphere-runtime;2.1.1
+[debug] 	local: revision in cache: org.atmosphere#atmosphere-runtime;2.1.1
+[debug] 	found org.atmosphere#atmosphere-runtime;2.1.1 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[info] Resolving org.slf4j#slf4j-api;1.6.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@718b2aae
+[debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.6.4
+[debug] 	local: revision in cache: org.slf4j#slf4j-api;1.6.4
+[debug] 	found org.slf4j#slf4j-api;1.6.4 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->default(compile)]
+[info] Resolving io.netty#netty;3.9.0.Final ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29bdf39c
+[debug] sbt-chain: module revision found in cache: io.netty#netty;3.9.0.Final
+[debug] 	local: revision in cache: io.netty#netty;3.9.0.Final
+[debug] 	found io.netty#netty;3.9.0.Final in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->default(compile)]
+[info] Resolving ch.qos.logback#logback-core;1.0.13 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57de1372
+[debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.0.13
+[debug] 	local: revision in cache: ch.qos.logback#logback-core;1.0.13
+[debug] 	found ch.qos.logback#logback-core;1.0.13 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->default(compile)]
+[info] Resolving ch.qos.logback#logback-classic;1.0.13 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@38688bde
+[debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-classic;1.0.13
+[debug] 	local: revision in cache: ch.qos.logback#logback-classic;1.0.13
+[debug] 	found ch.qos.logback#logback-classic;1.0.13 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->default(compile)]
+[info] Resolving org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55fccc6d
+[debug] sbt-chain: module revision found in cache: org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0
+[debug] 	local: revision in cache: org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0
+[debug] 	found org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [runtime]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [test]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [runtime]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile-internal]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->master]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [optional]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [provided]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile-internal->master]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [runtime-internal]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [runtime]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->master]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [optional]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime-internal->master]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [test-internal]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [test]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [runtime]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [compile->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [runtime->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test->master]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [optional]
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [provided]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#nettosphere;2.1.1 [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.atmosphere#atmosphere-runtime;2.1.1 [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.slf4j#slf4j-api;1.6.4 [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->io.netty#netty;3.9.0.Final [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-core;1.0.13 [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->ch.qos.logback#logback-classic;1.0.13 [test-internal->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test-internal->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test-internal->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0 [test-internal->master]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for default#websocket-server$sources_javadoc_2.11;1.0 [scala-tool]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [scala-tool->default(compile)]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [scala-tool->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [scala-tool->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-library;2.11.4 [scala-tool->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.11.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.4
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.11.4
+[debug] 	found org.scala-lang#scala-compiler;2.11.4 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.4 [scala-tool->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.4 [scala-tool->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-compiler;2.11.4 [scala-tool->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.11.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.11.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.4
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.11.4
+[debug] 	found org.scala-lang#scala-reflect;2.11.4 in sbt-chain
+[debug] 	[2.11.4] org.scala-lang#scala-reflect;2.11.4
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [scala-tool->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [scala-tool->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang#scala-reflect;2.11.4 [scala-tool->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.2 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
+[debug] 	local: revision in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2
+[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.2 [scala-tool->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
+[debug] 	local: revision in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2
+[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2 [scala-tool->master]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->jline#jline;2.12 [scala-tool->default(compile)]
+[info] Resolving jline#jline;2.12 ...
+[debug] sbt-chain: Checking cache for: dependency: jline#jline;2.12 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: jline#jline;2.12
+[debug] 	local: revision in cache: jline#jline;2.12
+[debug] 	found jline#jline;2.12 in sbt-chain
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->jline#jline;2.12 [scala-tool->runtime]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->jline#jline;2.12 [scala-tool->compile]
+[debug] == resolving dependencies default#websocket-server$sources_javadoc_2.11;1.0->jline#jline;2.12 [scala-tool->master]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.4!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.4!scala-library.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.4!scala-library.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.atmosphere/nettosphere/2.1.1/docs/nettosphere-javadoc.jar
+[debug] 	[NOT REQUIRED] org.atmosphere#nettosphere;2.1.1!nettosphere.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.atmosphere/nettosphere/2.1.1/srcs/nettosphere-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-javadoc.jar
+[info] 	[SUCCESSFUL ] org.atmosphere#nettosphere;2.1.1!nettosphere.jar(doc) (533ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/atmosphere/nettosphere/2.1.1/nettosphere-2.1.1-sources.jar
+[info] 	[SUCCESSFUL ] org.atmosphere#nettosphere;2.1.1!nettosphere.jar(src) (338ms)
+[debug] 		tried /Users/bhargava/.ivy2/local/org.atmosphere/atmosphere-runtime/2.1.1/docs/atmosphere-runtime-javadoc.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.atmosphere/atmosphere-runtime/2.1.1/jars/atmosphere-runtime.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.atmosphere/atmosphere-runtime/2.1.1/srcs/atmosphere-runtime-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-javadoc.jar
+[info] 	[SUCCESSFUL ] org.atmosphere#atmosphere-runtime;2.1.1!atmosphere-runtime.jar(doc) (1270ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1.jar
+[info] downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1.jar
+[info] 	[SUCCESSFUL ] org.atmosphere#atmosphere-runtime;2.1.1!atmosphere-runtime.jar (899ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/atmosphere/atmosphere-runtime/2.1.1/atmosphere-runtime-2.1.1-sources.jar
+[info] 	[SUCCESSFUL ] org.atmosphere#atmosphere-runtime;2.1.1!atmosphere-runtime.jar(src) (515ms)
+[debug] 		tried /Users/bhargava/.ivy2/local/org.slf4j/slf4j-api/1.6.4/srcs/slf4j-api-sources.jar
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.slf4j/slf4j-api/1.6.4/docs/slf4j-api-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar
+[info] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar(src) (334ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-javadoc.jar
+[info] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar(doc) (382ms)
+[debug] 		tried /Users/bhargava/.ivy2/local/io.netty/netty/3.9.0.Final/srcs/netty-sources.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/io.netty/netty/3.9.0.Final/docs/netty-javadoc.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/io.netty/netty/3.9.0.Final/jars/netty.jar
+[debug] 		tried http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-sources.jar
+[info] downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-sources.jar
+[info] 	[SUCCESSFUL ] io.netty#netty;3.9.0.Final!netty.jar(src) (634ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-javadoc.jar
+[info] 	[SUCCESSFUL ] io.netty#netty;3.9.0.Final!netty.jar(doc) (2518ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar
+[info] downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar
+[info] 	[SUCCESSFUL ] io.netty#netty;3.9.0.Final!netty.jar (522ms)
+[debug] 		tried /Users/bhargava/.ivy2/local/ch.qos.logback/logback-core/1.0.13/docs/logback-core-javadoc.jar
+[debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.0.13!logback-core.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/ch.qos.logback/logback-core/1.0.13/srcs/logback-core-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-javadoc.jar
+[info] 	[SUCCESSFUL ] ch.qos.logback#logback-core;1.0.13!logback-core.jar(doc) (654ms)
+[debug] 		tried http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-sources.jar
+[info] downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13-sources.jar
+[info] 	[SUCCESSFUL ] ch.qos.logback#logback-core;1.0.13!logback-core.jar(src) (390ms)
+[debug] 		tried /Users/bhargava/.ivy2/local/ch.qos.logback/logback-classic/1.0.13/docs/logback-classic-javadoc.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/ch.qos.logback/logback-classic/1.0.13/srcs/logback-classic-sources.jar
+[debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.0.13!logback-classic.jar
+[debug] 		tried http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-javadoc.jar
+[info] 	[SUCCESSFUL ] ch.qos.logback#logback-classic;1.0.13!logback-classic.jar(doc) (528ms)
+[debug] 		tried http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-sources.jar
+[info] downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13-sources.jar
+[info] 	[SUCCESSFUL ] ch.qos.logback#logback-classic;1.0.13!logback-classic.jar(src) (362ms)
+[debug] 		tried /Users/bhargava/.ivy2/local/org.apache.geronimo.specs/geronimo-servlet_3.0_spec/1.0/jars/geronimo-servlet_3.0_spec.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.apache.geronimo.specs/geronimo-servlet_3.0_spec/1.0/docs/geronimo-servlet_3.0_spec-javadoc.jar
+[debug] 		tried /Users/bhargava/.ivy2/local/org.apache.geronimo.specs/geronimo-servlet_3.0_spec/1.0/srcs/geronimo-servlet_3.0_spec-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0.jar
+[info] 	[SUCCESSFUL ] org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0!geronimo-servlet_3.0_spec.jar (354ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0!geronimo-servlet_3.0_spec.jar(doc) (422ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-servlet_3.0_spec/1.0/geronimo-servlet_3.0_spec-1.0-sources.jar
+[info] 	[SUCCESSFUL ] org.apache.geronimo.specs#geronimo-servlet_3.0_spec;1.0!geronimo-servlet_3.0_spec.jar(src) (325ms)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.4!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.4!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.4!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.4!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.2!scala-parser-combinators_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(doc)
+[debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(src)
+[debug] :: resolution report :: resolve 637ms :: artifacts dl 11059ms
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 compile produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-compile.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 runtime produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-runtime.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 test produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-test.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 provided produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-provided.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 optional produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-optional.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 compile-internal produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-compile-internal.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 runtime-internal produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-runtime-internal.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 test-internal produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-test-internal.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 plugin produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-plugin.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 sources produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-sources.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 docs produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-docs.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 pom produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-pom.xml
+[debug] 	report for default#websocket-server$sources_javadoc_2.11;1.0 scala-tool produced in /Users/bhargava/workspace/scala/websocket-server/target/resolution-cache/reports/default-websocket-server$sources_javadoc_2.11-scala-tool.xml
+[debug] 	resolve done (637ms resolve - 11059ms download)

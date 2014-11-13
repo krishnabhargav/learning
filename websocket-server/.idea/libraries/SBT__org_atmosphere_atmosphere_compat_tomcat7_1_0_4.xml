@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="SBT: org.atmosphere:atmosphere-compat-tomcat7:1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-compat-tomcat7/bundles/atmosphere-compat-tomcat7-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-compat-tomcat7/jars/atmosphere-compat-tomcat7-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-compat-tomcat7/docs/atmosphere-compat-tomcat7-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-compat-tomcat7/srcs/atmosphere-compat-tomcat7-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+        var socket = new WebSocket("ws://localhost:8080/echo");
+
+        socket.onopen = function () {
+              console.log("Connected");
+              socket.send('hello, world!');
+        };
+
+        socket.onmessage = function (event) {
+            console.log('Received data: ' + event.data);
+            socket.close();
+        };
+
+        socket.onclose = function () {
+            console.log('Lost connection!');
+        };
+
+    </script>
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
